@@ -39,6 +39,9 @@
       <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white">
       <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white">
       <img src="https://img.shields.io/badge/Polars-CD792C?logo=polars&logoColor=white">
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white">
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white">
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white">
     </td>
     <td width="33%">
       <h4>🔧 Backend Stack</h4>
@@ -52,7 +55,6 @@
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white">
       <img src="https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white">
       <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
-      <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
     </td>
   </tr>
 </table>
