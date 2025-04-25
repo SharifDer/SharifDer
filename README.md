@@ -131,5 +131,5 @@
 
 <p align="center">
   <i>"Shipping production ML is 10% algorithms, 90% engineering rigor"</i><br>
-  <b>Current Focus:</b> Optimizing real-time feature pipelines with Polars & Rust
+  <b>Current Focus:</b> Optimizing real-time feature pipelines with Polars, Pandas & Apache Airflow
 </p>
