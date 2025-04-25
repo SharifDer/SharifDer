@@ -63,6 +63,8 @@
 
 ### 📊 GitHub Impact
 
+### 📊 GitHub Impact
+
 <table width="100%">
   <tr>
     <td width="50%">
@@ -76,17 +78,11 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <td colspan="2">
-    [![GitHub Streak](https://streak-stats.demolab.com?user=SharifDer&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  
-<!--       <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=SharifDer&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-      </a> -->
-      
-    </td>
-  </tr>
 </table>
 
+<p align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=SharifDer&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+</p>
 ---
 
 ### 🏆 Quantified Impact
