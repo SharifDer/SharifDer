@@ -63,8 +63,6 @@
 
 ### 📊 GitHub Impact
 
-### 📊 GitHub Impact
-
 <table width="100%">
   <tr>
     <td width="50%">
@@ -80,11 +78,10 @@
   </tr>
   <tr>
     <td colspan="2">
-    [![GitHub Streak](https://streak-stats.demolab.com?user=SharifDer&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  
-      <a href="https://git.io/streak-stats"> -->
-      <img src="https://streak-stats.demolab.com?user=SharifDer&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-      </a> -->
-     </td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=SharifDer&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+      </a>
+    </td>
   </tr>
 </table>
 
@@ -134,5 +131,5 @@
 
 <p align="center">
   <i>"Shipping production ML is 10% algorithms, 90% engineering rigor"</i><br>
-  <b>Current Focus:</b> Optimizing real-time feature pipelines with Polars, Pandas & Apache Airflow
+  <b>Current Focus:</b> Optimizing real-time feature pipelines with Polars,Pandas & Apache Airflow
 </p>
