@@ -10,7 +10,7 @@
 
 ### 🔥 Technical Value Proposition
 
-**I architect ML-powered systems** that process **1M+ daily inferences** with 99.95% uptime. My production code powers critical infrastructure in healthcare and fintech verticals.
+**I build ML-powered systems** with **robust backend architecture**, optimized for **production reliability**.
 
 <table width="100%">
   <tr>
