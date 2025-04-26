@@ -63,7 +63,6 @@
 
 ### 📊 GitHub Impact
 
-<div style="animation: fadeIn 2s ease-in-out;">
 <table width="100%">
   <tr>
     <td width="50%">
@@ -85,19 +84,7 @@
     </td>
   </tr>
 </table>
-</div>
 
-<svg width="0" height="0">
-  <style>
-    @keyframes fadeIn {
-      from { opacity: 0; }
-      to { opacity: 1; }
-    }
-    div {
-      animation: fadeIn 1.5s ease-in-out;
-    }
-  </style>
-</svg>
 ---
 
 ### 🏆 Quantified Impact
