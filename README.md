@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Sharif Derhem | AI Engineer & Backend Architect</h1>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=SharifDer&layout=compact&theme=vision-friendly-dark&hide_border=true&v=2" alt="Coding Activity">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=38BCF7&center=true&width=435&lines=ML+Engineer+Who+Ships;Production-Ready+AI;Backend+Systems+Architect;Open+Source+Contributor" alt="Typing SVG" />
   
   ![Profile Views](https://komarev.com/ghpvc/?username=SharifDer&color=blueviolet&style=flat-square)
 </p>
@@ -21,7 +21,7 @@
       ✅ <b>DevOps</b>: CI/CD with 100% test coverage
     </td>
     <td width="40%">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SharifDer&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Coding Activity">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SharifDer&layout=compact&theme=vision-friendly-dark&hide_border=true&v=2" alt="Coding Activity">
     </td>
   </tr>
 </table>
