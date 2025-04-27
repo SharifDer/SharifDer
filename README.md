@@ -16,7 +16,7 @@
   <tr>
     <td width="60%">
       ✅ <b>Full ML Lifecycle</b>: Pandas → Scikit-learn → FastAPI<br>
-      ✅ <b>High-Performance APIs</b>: 50ms p99 latency<br>
+      ✅ <b>High-Performance APIs</b>: Low latency Solutions<br>
       ✅ <b>Data Engineering</b>: Polars/Numpy optimizations<br>
       ✅ <b>DevOps</b>: CI/CD with 100% test coverage
     </td>
