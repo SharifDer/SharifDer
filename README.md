@@ -49,6 +49,7 @@
       <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white">
       <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
       <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white">
+      <img src="[https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)">
     </td>
     <td width="33%">
       <h4>⚙️ DevOps</h4>
