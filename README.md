@@ -12,6 +12,7 @@
 
 **I build ML-powered systems** with **robust backend architecture**, optimized for **production reliability**.
 
+**🧪 Test First, Code Later — My Dev Flow **.
 <table width="100%">
   <tr>
     <td width="60%">
