@@ -90,17 +90,27 @@
 ---
 
 ### 🏆 Quantified Impact
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://img.shields.io/github/commit-activity/m/SharifDer?label=Monthly%20Commits&color=blueviolet"></td>
-      <td><img src="https://img.shields.io/github/issues-pr/SharifDer?label=PRs%20Merged&color=success"></td>
-      <td><img src="https://img.shields.io/github/repo-size/SharifDer?label=Code%20Deployed&color=informational"></td>
-      <td><img src="https://img.shields.io/github/followers/SharifDer?label=Followers&color=orange"></td>
-    </tr>
-  </table>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SharifDer&theme=github_dark">
-</div>
+<table width="100%">
+  <tr>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/github/commit-activity/y/SharifDer/E-commerce-data-analysis?label=Monthly%20Commits&color=blueviolet">
+    </td>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/github/issues-pr-closed/SharifDer/E-commerce-data-analysis?label=PRs%20Merged&color=success">
+    </td>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/github/repo-size/SharifDer/E-commerce-data-analysis?label=Repo%20Size&color=informational">
+    </td>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/github/followers/SharifDer?label=Followers&color=orange">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SharifDer&theme=github_dark">
+    </td>
+  </tr>
+</table>
 
 ---
 
