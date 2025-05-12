@@ -104,7 +104,7 @@
     </td>
     <td width="25%" align="center">
       <!-- Invalid badge: last-commit only works per repo -->
-      <img src="https://img.shields.io/badge/Last%20Commit-N/A-lightgrey">
+      <img src="https://img.shields.io/badge/Last%20Commit-today-lightgrey">
     </td>
   </tr>
   <tr>
