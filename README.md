@@ -93,16 +93,18 @@
 <table width="100%">
   <tr>
     <td width="25%" align="center">
-      <img src="https://img.shields.io/github/commit-activity/y/SharifDer/E-commerce-data-analysis?label=Monthly%20Commits&color=blueviolet">
-    </td>
-    <td width="25%" align="center">
-      <img src="https://img.shields.io/github/issues-pr-closed/SharifDer/E-commerce-data-analysis?label=PRs%20Merged&color=success">
-    </td>
-    <td width="25%" align="center">
-      <img src="https://img.shields.io/github/repo-size/SharifDer/E-commerce-data-analysis?label=Repo%20Size&color=informational">
-    </td>
-    <td width="25%" align="center">
       <img src="https://img.shields.io/github/followers/SharifDer?label=Followers&color=orange">
+    </td>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/github/stars/SharifDer?label=Total%20Stars&color=blueviolet">
+    </td>
+    <td width="25%" align="center">
+      <!-- No badge available for public repo count, so you must update manually -->
+      <img src="https://img.shields.io/badge/Public%20Repos-10-blue"> 
+    </td>
+    <td width="25%" align="center">
+      <!-- Invalid badge: last-commit only works per repo -->
+      <img src="https://img.shields.io/badge/Last%20Commit-N/A-lightgrey">
     </td>
   </tr>
   <tr>
@@ -111,6 +113,7 @@
     </td>
   </tr>
 </table>
+
 
 ---
 
