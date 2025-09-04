@@ -8,7 +8,7 @@
 
 ---
 
-### 🔥 Technical Value 
+### 🔥 Technical Values
 
 **I build ML-powered systems** with **robust backend architecture**, optimized for **production reliability**.
 
